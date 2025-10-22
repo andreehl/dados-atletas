@@ -1,1 +1,5 @@
-# dados-atletas
+#Projeto certificação trilha JavaScript DevStart
+
+A classe Atleta representa um atleta com atributos como nome, idade, peso, altura e notas de desempenho. Ela é construída para facilitar o gerenciamento de informações físicas e técnicas de um atleta, permitindo cálculos úteis como categoria etária, índice de massa corporal (IMC) e média válida de notas. A estrutura é simples e direta, ideal para aplicações educacionais ou sistemas de avaliação esportiva.
+Entre os métodos principais, destacam-se calculaCategoria, que define a faixa etária do atleta com base na idade; calculaIMC, que retorna o índice de massa corporal usando a fórmula padrão; e calculaMediaValida, que calcula a média das notas excluindo a maior e a menor para garantir uma avaliação mais justa. Além disso, há métodos de acesso (getters) que retornam os dados individuais do atleta e os resultados dos cálculos.
+Essa classe pode ser facilmente instanciada e utilizada em sistemas de avaliação esportiva, competições ou treinamentos. Com apenas algumas linhas de código, é possível obter informações detalhadas sobre o desempenho e perfil físico de um atleta, tornando o processo de análise mais eficiente e automatizado.
